@@ -1,3 +1,8 @@
+-=(MysticMarathon_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # [Arcade: Mystic Marathon](https://en.wikipedia.org/wiki/Mystic_Marathon) for [MiSTer](https://mister-devel.github.io/MkDocs_MiSTer/)
 
 ![Mystic Marathon Logo](doc/banner.png)
