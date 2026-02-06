@@ -1,3 +1,8 @@
+-=(MysticMarathon_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # [Arcade: Mystic Marathon](https://en.wikipedia.org/wiki/Mystic_Marathon) for [MiSTer](https://mister-devel.github.io/MkDocs_MiSTer/)
 
 ![Mystic Marathon Logo](doc/banner.png)
@@ -69,3 +74,4 @@ Quick reference for folders and file placement:
 /_Arcade/mame/<mame rom>.zip  
 /_Arcade/hbmame/<hbmame rom>.zip  
 ```
+
